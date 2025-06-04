@@ -93,14 +93,6 @@ This anonymized SMB dataset includes:
 
 ---
 
-## 🪜 Next Steps
-
-- Integrate real-time transaction-level features (e.g. card spend, repayment behavior).
-- Deploy as a microservice with API endpoints for underwriting.
-- Incorporate reinforcement learning to optimize long-term portfolio returns.
-
----
-
 ## 🤝 Business Impact
 
 > With this dynamic credit line framework, fintechs and lenders can make **proactive and risk-aware lending decisions**, enabling responsible growth in the SMB sector while leveraging BNPL-style flexibility and automation.
@@ -108,8 +100,7 @@ This anonymized SMB dataset includes:
 ---
 
 ## 📁 Output
-
-- Model outputs and predictions saved as: `credit_line_predictions.csv`
+- Model outputs and predictions saved as: `SMB_Dynamic_Credit_Line.csv`
 - Includes fields:
   - `Predicted_AdjustCreditLine`
   - `Predicted_DynamicCreditLine`
