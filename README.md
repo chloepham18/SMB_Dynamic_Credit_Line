@@ -1,6 +1,6 @@
-# 💳 SMB Dynamic Credit Line with BNPL Features
+# 💳 Dynamic Credit Limit Assignment Model for SMB
 
-This project implements an end-to-end machine learning pipeline to dynamically assign credit lines to small and medium-sized businesses (SMBs) using credit card data enhanced with Buy Now Pay Later (BNPL) characteristics. The goal is to optimize lending costs, minimize capital risk, and enable smart, dynamic underwriting strategies.
+This project implements an end-to-end machine learning pipeline to dynamically assign credit lines to small and medium-sized businesses (SMBs) using credit card data and financial attributes. The goal is to optimize lending costs, minimize capital risk, and enable smart, dynamic underwriting strategies.
 
 Inspired by fintech innovators like Ramp, Brex, Stripe, and Sofi, this solution demonstrates how modern credit platforms can empower SMBs with adaptive financing.
 
@@ -8,7 +8,7 @@ Inspired by fintech innovators like Ramp, Brex, Stripe, and Sofi, this solution 
 
 ## 🎯 Project Objectives
 
-- Develop a BNPL-style SMB credit line modeling framework.
+- Develop a dynamic credit limit assignment modeling framework for SMBs.
 - Perform Exploratory Data Analysis (EDA), outlier analysis, and data cleaning.
 - Train a binary classifier to predict if a credit line should be adjusted.
 - Train a regression model to recommend new credit line amounts.
@@ -142,7 +142,7 @@ MAE of ~$1,441 shows acceptable deviation in predictions. R² close to 1 demonst
 This dynamic credit line framework enables fintechs and lenders to:
 
 - Make proactive, risk-aware lending decisions for SMBs.
-- Leverage BNPL-style flexibility to support business growth.
+- Support business growth with adaptive credit limits.
 - Automate credit line adjustments, reducing manual overhead while optimizing capital allocation.
 
 By combining classification and regression models, this solution provides a scalable approach to credit underwriting, balancing growth opportunities with risk management.
